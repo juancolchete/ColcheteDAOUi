@@ -3,8 +3,8 @@ import ColchetePreloader from '../components/global/colchetePreloader';
 import ColcheteHeader from '../components/global/colcheteHeader';
 import ColcheteFooter from '../components/global/colcheteFooter';
 
-import ColcheteBlogSingleTop from '../components/pages/blogsingle/colcheteblogSingleTop';
-import ColcheteBlogSingleContent from '../components/pages/blogsingle/colcheteblogSingleContent';
+import ColcheteBlogSingleTop from '../components/pages/blogSingle/colcheteblogSingleTop';
+import ColcheteBlogSingleContent from '../components/pages/blogSingle/colcheteblogSingleContent';
 
 export default function BlogSingle() {
     return (
