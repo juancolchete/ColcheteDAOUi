@@ -4,7 +4,7 @@ import ColcheteHeader from '../components/global/colcheteHeader';
 import ColcheteFooter from '../components/global/colcheteFooter';
 
 import ColcheteBlogTop from '../components/pages/Blog/ColcheteBlogTop';
-import ColcheteBlogContent from '../components/pages/Blog/ColcheteBlogContent';
+import ColcheteBlogContent from '../components/pages/Blog/colcheteBlogContent';
 
 export default function Blog() {
     return (
