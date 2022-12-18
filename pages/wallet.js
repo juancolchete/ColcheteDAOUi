@@ -3,8 +3,8 @@ import ColchetePreloader from '../components/global/colchetePreloader';
 import ColcheteHeader from '../components/global/colcheteHeader';
 import ColcheteFooter from '../components/global/colcheteFooter';
 
-import ColcheteWalletTop from '../components/pages/wallet/ColcheteWalletTop';
-import ColcheteWalletContent from '../components/pages/wallet/ColcheteWalletContent';
+import ColcheteWalletTop from '../components/pages/wallet/colcheteWalletTop';
+import ColcheteWalletContent from '../components/pages/wallet/colcheteWalletContent';
 
 
 export default function Wallet() {

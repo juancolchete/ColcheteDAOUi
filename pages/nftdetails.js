@@ -3,8 +3,8 @@ import ColchetePreloader from '../components/global/colchetePreloader';
 import ColcheteHeader from '../components/global/colcheteHeader';
 import ColcheteFooter from '../components/global/colcheteFooter';
 
-import ColcheteNftDetailsTop from '../components/pages/nftdetails/ColcheteNftDetailsTop';
-import ColcheteNftDetailsContent from '../components/pages/nftdetails/ColcheteNftDetailsContent';
+import ColcheteNftDetailsTop from '../components/pages/nftdetails/colcheteNftDetailsTop';
+import ColcheteNftDetailsContent from '../components/pages/nftdetails/colcheteNftDetailsContent';
 
 export default function Nftdetails() {
     return (
