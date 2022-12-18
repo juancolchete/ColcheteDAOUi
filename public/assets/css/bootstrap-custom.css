@@ -1,0 +1,41 @@
+div.modal-content {
+    justify-content: center;
+    align-self: center;
+    background-color: #030010;
+    border-radius: 16px;
+    padding: 20px;
+    width: 300px;
+    margin: 0px auto;
+}
+.div.modal-header{
+    background-color: none;
+}
+#modal-content-confirm{
+    border: 2px solid #ffc107;
+}
+#modal-content-error{
+    border: 2px solid #c8232c;
+}
+#modal-content-loading{
+    border: 2px solid #3d8fff;
+}
+#modal-content-success{
+    border: 2px solid #0be881;
+}
+.modal-text-confirm{
+    color: #ffc107;
+}
+.modal-text-error{
+    color: #c8232c;
+}
+
+.modal-text-loading{
+    color: #3d8fff;
+}
+
+.modal-text-success{
+    color: #0be881;
+}
+a.default-btn-success{
+    background-color: #0be881;
+}
