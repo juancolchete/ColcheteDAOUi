@@ -1,4 +1,4 @@
-// import ColcheteHead from '../components/global/ColcheteHead';
+// import ColcheteHead from '../components/global/colcheteHead';
 
 const ColcheteHeader = () => {
     return (

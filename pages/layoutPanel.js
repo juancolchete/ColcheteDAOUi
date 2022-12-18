@@ -1,5 +1,5 @@
-import ColcheteHead from '../components/global/ColcheteHead';
-import ColcheteHeader from '../components/global/ColcheteHeader';
+import ColcheteHead from '../components/global/colcheteHead';
+import ColcheteHeader from '../components/global/colcheteHeader';
 
 import { useEffect } from 'react';
 

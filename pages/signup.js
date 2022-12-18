@@ -1,7 +1,7 @@
-import ColcheteHead from '../components/global/ColcheteHead';
-import ColchetePreloader from '../components/global/ColchetePreloader';
-import ColcheteHeader from '../components/global/ColcheteHeader';
-import ColcheteFooter from '../components/global/ColcheteFooter';
+import ColcheteHead from '../components/global/colcheteHead';
+import ColchetePreloader from '../components/global/colchetePreloader';
+import ColcheteHeader from '../components/global/colcheteHeader';
+import ColcheteFooter from '../components/global/colcheteFooter';
 
 import ColcheteSignupTop from '../components/pages/signup/ColcheteSignupTop';
 import ColcheteSignupLogin from '../components/pages/signup/ColcheteSignupLogin';

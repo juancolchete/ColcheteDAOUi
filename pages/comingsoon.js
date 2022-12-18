@@ -1,4 +1,4 @@
-import ColcheteHead from '../components/global/ColcheteHead';
+import ColcheteHead from '../components/global/colcheteHead';
 import ColcheteComingSoonContent from '../components/pages/comingsoon/ColcheteComingSoonContent';
 
 export default function ComingSoon() {
