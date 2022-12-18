@@ -30,9 +30,6 @@ const NftCard = () => {
                                 <div className="price-like d-flex justify-content-between align-items-center">
                                     <p className="nft-price">Price: <span className="yellow-color">2.56 MATIC</span>
                                     </p>
-                                    <a href="#" className="nft-like">
-                                        <i className="icofont-star-shape mx-1 " />
-                                        230</a>
                                 </div>
                             </div>
                         </div>
