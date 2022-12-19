@@ -15,7 +15,7 @@ const ColcheteHero = () => {
                                     </h1>
                                     <p>A web3 community focused on professional growth made by builder to builders.</p>
                                     <div className="banner-btns d-flex flex-wrap">
-                                        <a data-blast="bgColor" href="wallet" className="default-btn move-top"><span>Buy 2.56 MATIC</span> </a>
+                                        <a data-blast="bgColor" href="https://polygonscan.com/address/0x1807d55714cf0f3df12361a2840b811e72c391f2#writeContract" className="default-btn move-top"><span>Buy 2.56 MATIC</span> </a>
                                         {/* <a href="signin.html" className="default-btn move-right"><span>View NFTs</span> </a> */}
                                     </div>
                                 </div>
